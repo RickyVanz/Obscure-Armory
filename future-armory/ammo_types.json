@@ -1,0 +1,8 @@
+[
+  {
+    "type": "ammunition_type",
+	"id": "550arlov",
+	"name": "550 Arlov",
+	"default": "550arlov"
+  }
+]

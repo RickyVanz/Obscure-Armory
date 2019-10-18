@@ -1,0 +1,19 @@
+[
+  {
+    "id": "v85mag",
+	"type": "MAGAZINE",
+	"name": "Vitrovski V-85 Magazine",
+	"description": "10-round box magazine for Vitrovski V-85 sniper rifle.",
+	"weight": "800 g",
+	"volume": "700 ml",
+	"price": 25000,
+	"material": "budget_steel",
+	"symbol": "#",
+	"color": "gray",
+	"ammo_type": "550arlov",
+	"capacity": 10,
+	"reliability": 9,
+	"reload_time": 110,
+	"flags": [ "MAG_BULKY" ]
+  }
+]
