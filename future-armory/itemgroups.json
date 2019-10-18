@@ -1,0 +1,23 @@
+[
+  {
+    "type": "item_group",
+	"id": "guns_pistol_milspec",
+	"items": [
+	{ "item": "xs500", "prob": 10, "charges-min": 0, "charges-max": 5 }
+	]
+  },
+  {
+    "type": "item_group",
+	"id": "guns_rifle_milspec",
+	"items": [
+	{ "item": "v85", "prob": 10, "charges-min": 0, "charges-max": 10 }
+	]
+  },
+  {
+    "type": "item_group",
+	"id": "guns_energy",
+	"items": [
+	{ "item": "eliminator", "prob": 10 }
+	]
+  }
+]
