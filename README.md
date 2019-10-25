@@ -1,6 +1,5 @@
-# Future-Armory
-mod for Cataclysm : Dark Days Ahead
+# Obscure Armory (Beta Test)
 
-this is a mod for Cataclysm : Dark Days Ahead, the purpose of this mod is to add futuristic weaponry into the game.
+this is a work-in-progress mod for Cataclysm : Dark Days Ahead, so expect new things (plus bugs and mistakes) to happens.
 
-this is still in early test so there may be bugs and error.
+if you want to contribute, feel free to. every kind of contributes helps.
