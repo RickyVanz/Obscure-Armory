@@ -1,10 +1,10 @@
 [
   {
     "type": "MOD_INFO",
-	"ident": "futurearmory",
-	"name": "Ricky's Future Armory",
+	"ident": "beta_armory",
+	"name": "Obscure Armory Beta",
 	"authors": [ "RickyVanz" ],
-	"description": "Experience the future of weaponry with this mod.",
+	"description": "Experience obscure and unique weapons with this mod (WIP, BETA TEST)",
 	"category": "items",
 	"dependencies": [ "dda" ]
   }
