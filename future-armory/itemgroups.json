@@ -3,21 +3,52 @@
     "type": "item_group",
 	"id": "guns_pistol_milspec",
 	"items": [
-	{ "item": "xs500", "prob": 10, "charges-min": 0, "charges-max": 5 }
+	{ "item": "xs500", "prob": 10, "charges-min": 0, "charges-max": 5 },
+	{ "item": "xs3", "prob": 10, "charges-min": 0, "charges-max": 12 }
 	]
   },
   {
     "type": "item_group",
 	"id": "guns_rifle_milspec",
 	"items": [
-	{ "item": "v85", "prob": 10, "charges-min": 0, "charges-max": 10 }
+	{ "item": "v85", "prob": 10, "charges-min": 0, "charges-max": 10 },
+	{ "item": "anzio20mm", "prob": 10, "charges-min": 0, "charges-max": 3 }
 	]
   },
   {
     "type": "item_group",
 	"id": "guns_energy",
 	"items": [
-	{ "item": "eliminator", "prob": 10 }
+	{ "item": "eliminator", "prob": 10 },
+	{ "item": "va989", "prob": 10 }
+	]
+  },
+  {
+    "type": "item_group",
+    "id": "guns_shotgun_milspec",
+    "items": [
+    { "item": "pancor_jack", "prob": 5, "charges-min": 0, "charges-max": 10 }
+    ]
+  },
+  {
+    "type": "item_group",
+	"id": "ammo_rifle_milspec",
+	"items": [
+	[ "550arlov", 20 ],
+	[ "550_incendiary", 10 ],
+	[ "550_ap", 10 ],
+	[ "550_explosive", 15 ],
+	[ "20mm", 10 ]
+	]
+  },
+  {
+    "type": "item_group",
+	"id": "mags_milspec",
+	"items": [
+	[ "v85mag", 10 ],
+	[ "xs3mag", 10 ],
+	[ "anziomag", 10 ],
+	[ "pancormag", 10 ]
 	]
   }
 ]

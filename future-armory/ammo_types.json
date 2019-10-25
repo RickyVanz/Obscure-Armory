@@ -4,5 +4,11 @@
 	"id": "550arlov",
 	"name": "550 Arlov",
 	"default": "550arlov"
+  },
+  {
+    "type": "ammunition_type",
+	"id": "20mm",
+	"name": "20mm Vulcan",
+	"default": "20mm"
   }
 ]
