@@ -197,7 +197,7 @@
     "id": "armgun",
 	"type": "GUN",
 	"name": "Mk-1 Arm Gun",
-	"description": "Prototype Arm-mounted gun, chambered in 9mm and uses muscle sensor as trigger, this weapon is designed by somebody who thinks why pucnh zombies when you can shoot a bullet from your arm.",
+	"description": "Prototype Arm-mounted gun, chambered in 9mm and uses muscle sensor as trigger, this weapon is designed by somebody who thinks why punch zombies when you can shoot a bullet from your arm.",
 	"weight": "4300 g",
 	"volume": "1100 ml",
 	"price": 500000,
