@@ -32,6 +32,17 @@
   },
   {
     "type": "item_group",
+	"id": "soa_real_weapon_decor",
+	"subtype": "distribution",
+	"items": [
+	[ "katari", 20 ],
+	[ "chalikar", 10 ],
+	[ "razor_sword", 10 ],
+	[ "boomerang", 10 ]
+	]
+  },
+  {
+    "type": "item_group",
 	"id": "ammo_rifle_milspec",
 	"items": [
 	[ "550arlov", 20 ],
