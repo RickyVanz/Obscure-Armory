@@ -66,5 +66,22 @@
 	"reliability": 8,
 	"reload_time": 300,
 	"flags": [ "MAG_BULKY" ]
+  },
+  {
+    "id": "armgunmag",
+	"type": "MAGAZINE",
+	"name": "Arm-Gun Magazine",
+	"description": "100 rounds magazine for Mk-1 Arm-Gun",
+	"weight": "900 g",
+	"volume": "500 ml",
+	"price": 50000,
+	"material": "steel",
+	"symbol": "#",
+	"color": "gray",
+	"ammo_type": "9mm",
+	"capacity": 100,
+	"reliability": 9,
+	"reload_time": 200,
+	"flags": [ "MAG_COMPACT" ]
   }
 ]

@@ -4,7 +4,8 @@
 	"id": "guns_pistol_milspec",
 	"items": [
 	{ "item": "xs500", "prob": 10, "charges-min": 0, "charges-max": 5 },
-	{ "item": "xs3", "prob": 10, "charges-min": 0, "charges-max": 12 }
+	{ "item": "xs3", "prob": 10, "charges-min": 0, "charges-max": 12 },
+	{ "item": "armgun", "prob": 10, "charges-min": 0, "charges-max": 100 }
 	]
   },
   {
@@ -59,7 +60,7 @@
 	[ "v85mag", 10 ],
 	[ "xs3mag", 10 ],
 	[ "anziomag", 10 ],
-	[ "pancormag", 10 ]
-	]
+	[ "pancormag", 10 ],
+	[ "armgunmag", 10 ]
   }
 ]

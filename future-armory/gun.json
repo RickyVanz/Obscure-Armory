@@ -184,6 +184,7 @@
 	"color": "dark_gray",
 	"ammo": "shot",
 	"skill": "shotgun",
+	"range": 20,
 	"ranged_damage": 20,
 	"dispersion": 280,
 	"durability": 8,
@@ -191,5 +192,35 @@
 	"loudness": 20,
 	"flags": [ "NEVER_JAMS" ],
 	"magazines": [ [ "shot", [ "pancormag" ] ] ]
+  },
+  {
+    "id": "armgun",
+	"type": "GUN",
+	"name": "Mk-1 Arm Gun",
+	"description": "Prototype Arm-mounted gun, chambered in 9mm and uses muscle sensor as trigger, this weapon is designed by somebody who thinks why pucnh zombies when you can shoot a bullet from your arm.",
+	"weight": "4300 g",
+	"volume": "1100 ml",
+	"price": 500000,
+	"to_hit": 1,
+	"bashing": 15,
+	"material": "steel",
+	"symbol": "(",
+	"color": "gray",
+	"ammo": "9mm",
+	"skill": "pistol",
+	"range": 20,
+	"ranged_damage": 10,
+	"dispersion": 80,
+	"durability": 9,
+	"burst": 10,
+	"loudness": 10,
+	"flags": [ "NEVER_JAMS" ],
+	"magazines": [ [ "9mm", [ "armgunmag" ] ] ],
+	"armor_data": {
+	 "covers": [ "ARM_EITHER" ],
+	 "warmth": 10,
+	 "encumbrance": 10,
+	 "coverage": 20
+	 }
   }
 ]
