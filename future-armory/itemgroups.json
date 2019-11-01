@@ -13,7 +13,9 @@
 	"id": "guns_rifle_milspec",
 	"items": [
 	{ "item": "v85", "prob": 10, "charges-min": 0, "charges-max": 10 },
-	{ "item": "anzio20mm", "prob": 10, "charges-min": 0, "charges-max": 3 }
+	{ "item": "anzio20mm", "prob": 10, "charges-min": 0, "charges-max": 3 },
+	{ "item": "vss_vintorez", "prob": 10, "charges-min": 0, "charges-max": 20 },
+	{ "item": "port_cannon", "prob": 10, "charges-min": 0, "charges-max": 1 }
 	]
   },
   {
@@ -28,7 +30,9 @@
     "type": "item_group",
     "id": "guns_shotgun_milspec",
     "items": [
-    { "item": "pancor_jack", "prob": 5, "charges-min": 0, "charges-max": 10 }
+    { "item": "pancor_jack", "prob": 5, "charges-min": 0, "charges-max": 10 },
+	{ "item": "win_liberator", "prob": 5, "charges-min": 0, "charges-max": 4 },
+	{ "item": "mts255", "prob": 5, "charges-min": 0, "charges-max": 5 }
     ]
   },
   {
@@ -50,7 +54,9 @@
 	[ "550_incendiary", 10 ],
 	[ "550_ap", 10 ],
 	[ "550_explosive", 15 ],
-	[ "20mm", 10 ]
+	[ "20mm", 10 ],
+	[ "9x39", 10 ],
+	[ "cannonball", 10 ]
 	]
   },
   {
@@ -61,7 +67,8 @@
 	[ "xs3mag", 10 ],
 	[ "anziomag", 10 ],
 	[ "pancormag", 10 ],
-	[ "armgunmag", 10 ]
-        ]
+	[ "armgunmag", 10 ],
+	[ "vssmag", 10 ]
+	]
   }
 ]

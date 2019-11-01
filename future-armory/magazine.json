@@ -83,5 +83,22 @@
 	"reliability": 9,
 	"reload_time": 200,
 	"flags": [ "MAG_COMPACT" ]
+  },
+  {
+    "id": "vssmag",
+	"type": "MAGAZINE",
+	"name": "VSS Magazine",
+	"description": "20-round magazine for VSS Vintorez sniper rifle",
+	"weight": "850 g",
+	"volume": "700 ml",
+	"price": 60000,
+	"material": "steel",
+	"symbol": "#",
+	"color": "gray",
+	"ammo_type": "9x39",
+	"capacity": 20,
+	"reliability": 9,
+	"reload_time": 200,
+	"flags": [ "MAG_COMPACT" ]
   }
 ]
