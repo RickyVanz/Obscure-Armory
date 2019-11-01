@@ -306,7 +306,7 @@
 	"price": 4000000,
 	"to_hit": -1,
 	"bashing": 15,
-	"material": [ "wood", "steel", ].
+	"material": [ "wood", "steel" ],
 	"symbol": "(",
 	"color": "dark_gray",
 	"ammo": "shot",
