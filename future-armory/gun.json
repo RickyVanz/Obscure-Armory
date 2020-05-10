@@ -192,7 +192,7 @@
 	"skill": "shotgun",
 	"range": 20,
 	"ranged_damage": { "damage_type": "bullet", "amount": 5 },
-	"dispersion": 280,
+	"dispersion": 240,
 	"durability": 8,
 	"burst": 5,
 	"loudness": 20,
