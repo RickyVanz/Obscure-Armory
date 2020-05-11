@@ -7,7 +7,7 @@
 	"weight": "800 g",
 	"volume": "700 ml",
 	"price": 25000,
-	"price_postapoc": 35000
+	"price_postapoc": 35000,
 	"material": "budget_steel",
 	"symbol": "#",
 	"color": "gray",
