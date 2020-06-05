@@ -3,7 +3,7 @@
     "type": "item_group",
 	"id": "guns_pistol_milspec",
 	"items": [
-	{ "item": "xs500", "prob": 10, "charges-min": 0, "charges-max": 5 },
+	{ "item": "zp500", "prob": 10, "charges-min": 0, "charges-max": 5 },
 	{ "item": "xs3", "prob": 10, "charges-min": 0, "charges-max": 12 },
 	{ "item": "armgun", "prob": 10, "charges-min": 0, "charges-max": 100 }
 	]
